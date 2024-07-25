@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/Carl165/Cyberion-Spark-MD-/fork)and `Star ☆ Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/Carl165/Cyberion-Spark-MD/fork)and `Star ☆ Repository` for Courage.***
   
 
 
@@ -38,4 +38,4 @@ The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/
 Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)
+INCASE OF ANY ISSUE[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)
