@@ -1,5 +1,5 @@
  <h1 align="center"> CYBERION-SPARK-MD </h1>
-<p align="center"> CYBERION-SPARK-MD, A Simple WhatsApp user BOT, Created by France King.
+<p align="center"> CYBERION-SPARK-MD, A Simple WhatsApp user BOT, Created by Carl William.
 </p>
 
 
@@ -12,21 +12,16 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/Carl165/Cyberion-Spark-MD-/fork)and `Star 👑 Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/Carl165/Cyberion-Spark-MD-/fork)and `Star ☆ Repository` for Courage.***
   
 
 
-2, Scan the code and link it with your Whatsapp.
+##TO GET SESSION 🆔 
+
+ [`TAP HERE`](https://github.com/Carl165/SESSION_SITE)
 
 
-  ***Click [`Get Session`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
-  
-  
-  ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
 
-
-   
-3, Copy the session and deploy on heroku.  
 
    
  - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/original/tree/main?tab=readme-ov-file).***
@@ -34,7 +29,7 @@
 
 ## Contributions
 
-Contributions to IBRAHIM-AI-10.10 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Cyberion-Spark-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
@@ -43,7 +38,4 @@ The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/
 Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-
-- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
-- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/message/74F2PC4JA4F3P1)
-
+[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)
