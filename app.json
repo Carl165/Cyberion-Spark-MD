@@ -1,8 +1,8 @@
 {
-  "name":"BMW-MD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"Cyberion-Spark-MD",
+  "description":"Best whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+  "logo":"https://telegra.ph/file/c744958d33851b1e4d10b.jpg",
   "repository":"https://github.com/ibraahadam/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-MD",
+      "value":"Cyberion-Spark-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+      "value":"https://telegra.ph/file/c744958d33851b1e4d10b.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "Çåřł ẅįłłïåm"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254740271632,254740271632"
   },
     "WARN_COUNT":
   {
