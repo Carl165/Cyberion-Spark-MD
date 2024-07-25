@@ -18,7 +18,7 @@
 
 ##TO GET SESSION 🆔 
 
- [`TAP HERE`](https://github.com/Carl165/SESSION_SITE)
+TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`TAP HERE`](https://github.com/Carl165/SESSION_SITE)
 
 
 
