@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Cyberion+Spark+MD+BY+CARL)](https://git.io/typing-svg)
 
 
-<img src="https://telegra.ph/file/c744958d33851b1e4d10b.jpg" width="600" height="500"/>
+<img src="https://telegra.ph/file/c744958d33851b1e4d10b.jpg" width="700" height="700"/>
 
 
 
