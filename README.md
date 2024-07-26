@@ -25,7 +25,7 @@ TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`TAP HERE`](https://github.com/Carl1
 
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/original/tree/main?tab=readme-ov-file).***
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
@@ -39,5 +39,5 @@ The CYBERION-SPARK-MD is released under the [MIT License](https://opensource.org
 Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-INCASE OF ANY ISSUE[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)
+INCASE OF ANY ISSUE⏩️⏩️[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)⏪️⏪️CONTACT THE OWNER
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=REACH+ME+HERE+CARL)](https://git.io/typing-svg)
