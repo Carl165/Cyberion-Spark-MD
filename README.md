@@ -8,6 +8,8 @@
 <img src="https://telegra.ph/file/c744958d33851b1e4d10b.jpg" width="700" height="700"/>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 ### Setup
 
@@ -19,7 +21,7 @@
 
 ##TO GET SESSION 🆔 
 
-TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`TAP HERE`](https://github.com/Carl165/SESSION_SITE)
+TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`TAP HERE`](https://github.com/Carl165/SESSION_SITE)AND GET SESSION 🆔 FOR YOUR RESPECTIVE BOT.
 
 
 
@@ -41,3 +43,5 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 ## Developer:
 INCASE OF ANY ISSUE⏩️⏩️[`Reach me here`](https://github.com/Carl165/CARLTECH-INFO)⏪️⏪️CONTACT THE OWNER
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=REACH+ME+HERE+CARL)](https://git.io/typing-svg)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
