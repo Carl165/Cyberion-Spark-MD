@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { king } = require("../france/king");
-king({ nomCom: "ping", reaction: "💯", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+king({ nomCom: "ping", reaction: "👾", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝐏𝐈𝐍𝐆𝐈𝐍𝐆 𝐅𝐑𝐎𝐌⌛*𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛* \n\n ' + "LOADING⏳..✨✨✨..100℅✅";
+    let z = '𝐏𝐈𝐍𝐆𝐈𝐍𝐆 𝐅𝐑𝐎𝐌⌛*CYBERION-SPARK* \n\n ' + "LOADING⏳..✨✨✨..100℅✅";
     let d = '𝗣𝗢𝗡𝗚:1090000000𝗠𝗦⏳*';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/e3d2edb3167a59ba625d7.jpg';
+    var img = 'https://telegra.ph/file/9b30c71fa2aa36248c4ba.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
