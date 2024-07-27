@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *IBRAHIM-TECH ACTIVE RUNNING SPEED 90000MS✅*`
+ *𝑪𝒀𝑩𝑬𝑹𝑰𝑶𝑵-𝑺𝑷𝑨𝑹𝑲 ACTIVE RUNNING SPEED 90000MS✅*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
