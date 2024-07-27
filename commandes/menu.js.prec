@@ -35,7 +35,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
       
     ╚═════ ✨✨ ⭕️ ✨✨ ═════╝*/
     /* menuMsg+=`
-   ╔════ ✨✨ CYBERION-MD ✨✨ ════╗
+   ╔════▰▰𝕮𝖞𝖇𝖊𝖗𝖎𝖔𝖓-𝕾𝖕𝖆𝖗𝖐-𝕸𝕯▰▰═══╗
   
    ||     Préfixe : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
@@ -43,11 +43,11 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||      Date : ${date}
    ||      Hour : ${temps}
    ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Developer : CARL WILLIAM 
+   ||  Developer : ℂ𝔸ℝ𝕃 𝕎𝕀𝕃𝕃𝕀𝔸𝕄
    ||
-   ╚════ ✨✨ ⭕️ ✨✨ ════╝`;*/
+   ☶☶☶☶☶☶☶☶░░░☶☶☶☶☶☶☶☶`;*/
     menuMsg += `
-╔════----*CARL-𝗧𝗘𝗖𝗛-----
+╔════----*𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐌𝐃*-----
 ║    Préfixe : ${s.PREFIXE}
 ║    Owner : ${s.OWNER_NAME}    
 ║    Mode : ${mode}
@@ -56,7 +56,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ║    Hour: ${temps}
 ║    Mém : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║    Platform : ${os.platform()}
-║    Déveloper : CARL WILLIAM 
+║    Déveloper : 🄲🄰🅁🄻-🅆🄸🄻🄻🄸🄰🄼
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
