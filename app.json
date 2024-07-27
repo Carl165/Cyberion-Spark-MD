@@ -3,7 +3,7 @@
   "description":"Best whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/c744958d33851b1e4d10b.jpg",
-  "repository":"https://github.com/ibraahadam/BMW-MD",
+  "repository":"https://github.com/Carl165/Cyberion-Spark-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Cyberion-Spark-MD",
+      "value":"𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Çåřł ẅįłłïåm"
+    "value": "𝐂𝐀𝐑𝐋 𝐖𝐈𝐋𝐋𝐈𝐀𝐌"
   },
     "NUMERO_OWNER":
   {
