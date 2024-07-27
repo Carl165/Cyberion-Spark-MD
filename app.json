@@ -1,5 +1,5 @@
 {
-  "name":"Cyberion-Spark-MD",
+  "name":"𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃",
   "description":"Best whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/c744958d33851b1e4d10b.jpg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"*",
       "required":true
     },
     "AUTO_READ_STATUS":
