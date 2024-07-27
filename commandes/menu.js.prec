@@ -36,7 +36,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     ╚═════ ✨✨ ⭕️ ✨✨ ═════╝*/
     /* menuMsg+=`
    ╔════▰▰𝕮𝖞𝖇𝖊𝖗𝖎𝖔𝖓-𝕾𝖕𝖆𝖗𝖐-𝕸𝕯▰▰═══╗
-  
+     ╚═════════ 🧡 ═════════╝
    ||     Préfixe : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
    ||      Commands : ${cm.length}
@@ -44,7 +44,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||      Hour : ${temps}
    ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
    ||  Developer : ℂ𝔸ℝ𝕃 𝕎𝕀𝕃𝕃𝕀𝔸𝕄
-   ||
+   ||╔═════════ 🧡 ═════════╗
    ☶☶☶☶☶☶☶☶░░░☶☶☶☶☶☶☶☶`;*/
     menuMsg += `
 ╔════----*𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐌𝐃*-----
@@ -83,7 +83,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 module.exports.commande =()=>
   {
     var nomCom=["menu","m","fonctions"];
-    var reaction="📃"
+    var reaction="💫"
     var categorie="General"
 
 
