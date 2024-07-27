@@ -135,7 +135,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Cyberion-Spark-MD ┗━━━┓
+┏━━━┛𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃 ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -211,7 +211,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Cyberion-Spark-MD ┗━━━┓
+┏━━━┛𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
