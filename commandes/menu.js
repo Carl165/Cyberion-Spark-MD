@@ -31,13 +31,13 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《CARL-TECH》────☣
+╭────《𝕮𝕬𝕽𝕷-𝕿𝕰𝕮𝕳》────☣
 🔱 *User* : ${s.OWNER_NAME}
 🔱 *Mode* : ${mode}
 🔱 *Commands* : ${cm.length} 
 🔱 *Time* : ${temps} 
 🔱 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🔰 CYBERION-SPARK-𝗠𝗗 
+🔰 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝗠𝗗 
 ╰─────✨✨✨✨✨─────☣ \n\n`;
  
     let menuMsg=`  
