@@ -1,6 +1,6 @@
 {
   "name":"𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃",
-  "description":"Best kenyan whatsapp bot developed by Carl William",
+  "description":"Best kenyan whatsapp bot developed by ℂ𝔸ℝ𝕃 𝕎𝕀𝕃𝕃𝕀𝔸𝕄",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/c744958d33851b1e4d10b.jpg",
   "repository":"https://github.com/Carl165/Cyberion-Spark-MD",
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐂𝐀𝐑𝐋 𝐖𝐈𝐋𝐋𝐈𝐀𝐌"
+    "value": "ℂ𝔸ℝ𝕃 𝕎𝕀𝕃𝕃𝕀𝔸𝕄"
   },
     "NUMERO_OWNER":
   {
@@ -96,7 +96,7 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"Mark your presence: online to indicate that you are online even if you are not. typing to indicate that you are currently typing a message. recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
     "value":"",
     "required": false
   },
