@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Flash-Md', "safari", "1.0.0"],
+            browser: ['CYBERION-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -154,18 +154,18 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const FranceKing = '254757835036';
-            const FranceKing1 = '254751284190';
-            const FranceKing2 = "254750948696";
-            const FranceKing3 = '254742063632';
+            const Carltech = '254770954948';
+            const Carlwilliam1 = '254740271632';
+            const Carlwilliam2 = "254740271632";
+            const Carlwilliam3 = '254740271632';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, carl, William1, Cyberion2, Spark3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{IBRAHIM-MD}...[][]");
+            console.log("\t [][]...{CBERION-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Ibrahim-Md',
+                                        pack: 'Cyberion-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Ibrahim-Md',
+                pack: 'Cyberion-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -567,7 +567,7 @@ function mybotpic() {
     let warn = await getWarnCountByJID(auteurMessage) ; 
     let warnlimit = conf.WARN_COUNT
  if ( warn >= warnlimit) { 
-  var kikmsg = `bot detected ;you will be remove because of reaching warn-limit`;
+  var kikmsg = `bot detected ;you will be removed because of reaching warn-limit`;
     
      await zk.sendMessage(origineMessage, { text: kikmsg , mentions: [auteurMessage] }, { quoted: ms }) ;
 
@@ -663,14 +663,14 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/37ad9456847e2ad3403e7.jpg';
+        ppgroup = 'https://telegra.ph/file/5c8bc70bf5ae0eb1697a7.jpg';
     }
 
     try {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇IBRAHIM-MD◇
+            let msg = `◇CYBERION-MD◇
 `;
              
             let membres = group.participants;
@@ -858,32 +858,31 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗』*
 
      
-║❒Creator: *IBRAHIM ADAMS*
-║❒Prefix : [ ${prefixe} ]
-║❒Mode :${md}
-║❒Created on : *22.2.2024*
-║❒Total Commands : ${evt.cm.length}︎
+╽❒Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
+▮❒Prefix : [ ${prefixe} ]
+▮❒Mode :${md}
+▮❒Created on : *22.6.2024*
+╿❒Total Commands : ${evt.cm.length}︎
 
    
  
 
-
+┏━━━━━❂¤¤¤¤¤¤¤¤¤¤❂━━━━━┓
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
 
-║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+╽❒ *CONTACT THE DEVELOPER* 🪄 
+┃❐https://wa.link/c9qf2z
+╚═════════ 🧡 ═════════╝
+║ *TELEGRAM*
+https://t.me/Carl
+╚═════════ 🧡 ═════════╝
 
-║❒ *YOUTUBE*
-https://www.youtube.com/@ibrahimaitech
 
-
-
-
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
