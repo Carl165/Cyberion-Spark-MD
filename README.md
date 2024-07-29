@@ -28,6 +28,9 @@ TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](htt
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
+
    
 𝐀𝐅𝐓𝐄𝐑 𝐃𝐎𝐍𝐄 - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
 
