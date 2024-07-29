@@ -34,7 +34,7 @@ TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](htt
 
 
    
-𝐀𝐅𝐓𝐄𝐑 𝐃𝐎𝐍𝐄 - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
+𝐀𝐅𝐓𝐄𝐑 𝐃𝐎𝐍𝐄 - ***Now [`𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
