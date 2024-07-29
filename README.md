@@ -23,13 +23,13 @@
 
 ##TO GET SESSION 🆔 
 
-TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](https://github.com/Carl165/SESSION_SITE)AND GET SESSION 🆔 FOR YOUR RESPECTIVE BOT.
+TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](https://github.com/Carl165/SESSION_SITE)AND GET SESSION 🆔 FOR YOUR RESPECTIVE BOT🤖🦾.
 
 
 
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
+𝐀𝐅𝐓𝐄𝐑 𝐃𝐎𝐍𝐄 - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
