@@ -27,12 +27,16 @@ TAP HERE TO BE DIRECTED TO THE SESSION-SITE[`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](htt
 
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
    
 𝐀𝐅𝐓𝐄𝐑 𝐃𝐎𝐍𝐄 - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/CARL165/Cyberion-Spark-MD/tree/main?tab=readme-ov-file).***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 
 ## Contributions
@@ -49,4 +53,6 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 INCASE OF ANY ISSUE⏩️⏩️[`𝐑𝐄𝐀𝐂𝐇 𝐌𝐄.𝐇𝐄𝐑𝐄`](https://github.com/Carl165/CARLTECH-INFO)⏪️⏪️CONTACT THE OWNER
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝑹𝑬𝑨𝑪𝑯+𝑴𝑬+𝑯𝑬𝑹𝑬+𝑪𝑨𝑹𝑳)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
