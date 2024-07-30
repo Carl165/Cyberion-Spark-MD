@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['CYBERION-MD', "safari", "1.0.0"],
+            browser: ['FLASH-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Cyberion-Md',
+                                        pack: 'FLASH-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Cyberion-Md',
+                pack: 'FLASH-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Ibrahim King*`;
+📌Powred by *Carl William*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗠𝗗*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -861,24 +861,24 @@ ${metadata.desc}
 *『𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗』*
 
      
-╽❒Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
-▮❒Prefix : [ ${prefixe} ]
-▮❒Mode :${md}
-▮❒Created on : *22.6.2024*
-╿❒Total Commands : ${evt.cm.length}︎
-
+╽☆Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
+▮☆Prefix : [ ${prefixe} ]
+▮☆Mode :${md}
+▮☆Created on : *22.6.2024*
+╿☆Total Commands : ${evt.cm.length}︎
+   ✦𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛✦
    
  
 
 ┏━━━━━❂¤¤¤¤¤¤¤¤¤¤❂━━━━━┓
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
+✦https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
 
-╽❒ *CONTACT THE DEVELOPER* 🪄 
-┃❐https://wa.link/c9qf2z
+╽☆ *CONTACT THE DEVELOPER* 🪄 
+┃☆https://wa.link/c9qf2z
 ╚═════════ 🧡 ═════════╝
 ║ *TELEGRAM*
-https://t.me/Carl
+✦☆https://t.me/Carl
 ╚═════════ 🧡 ═════════╝
 
 
