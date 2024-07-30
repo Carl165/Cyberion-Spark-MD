@@ -7,7 +7,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<img src="https://telegra.ph/file/c744958d33851b1e4d10b.jpg" width="700" height="700"/>
+<img src="https://telegra.ph/file/ce441b6655752d71b80fa.jpg" width="700" height="700"/>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
