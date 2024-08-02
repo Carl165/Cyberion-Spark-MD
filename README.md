@@ -2,7 +2,7 @@
 <p align="center"> 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃, A Simple WhatsApp user BOT, Created by Carl William.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS FOR CHOOSING+CYBERION-SPARK;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THE+CYBERION-SPARK;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+CARL+;RELEASED+2.8.2024" alt="Typing SVG" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
