@@ -6,7 +6,7 @@ const { default: axios } = require('axios');
 
 
 
-zokou({nomCom:"bot",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"cyberion",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
@@ -58,7 +58,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
       const response = await axios.get(`https://vihangayt.me/tools/photoleap?q=${image}`);
       
       const data = response.data;
-      let caption = '*powered by ZOKOU-MD*';
+      let caption = '*powered by CYBERION*';
       
       if (data.status && data.owner && data.data) {
         // Utiliser les données retournées par le service
@@ -78,7 +78,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
   
     try {
       if (!arg || arg.length === 0) {
-        return repondre(`Please ask a question Ibrahim will answer it.`);
+        return repondre(`Please ask a question Cyberion will answer it.`);
       }
   
       // Regrouper les arguments en une seule chaîne séparée par "-"
