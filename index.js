@@ -688,7 +688,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Ibrahim King*`;
+📌Powred by *CARL-TECH*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -858,32 +858,32 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『𝗖𝗬𝗡𝗘𝗥𝗜𝗢𝗡-𝗦𝗣𝗔𝗥𝗞 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗡𝗚 』*
 
      
-║❒Creator: *IBRAHIM ADAMS*
+║❒Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
-║❒Created on : *22.2.2024*
+║❒Created on : *22.6.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
    
  
 
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+║❒ *𝖩𝖮𝖨𝖭 𝖮𝖴𝖱 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 𝖢𝖧𝖠𝖭𝖭𝖤𝖫*
+
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+https://wa.me/254740271632
 
-║❒ *YOUTUBE*
-https://www.youtube.com/@ibrahimaitech
-
-
+║❒ *𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠*
+https://𝗍.𝗆𝖾/𝖢𝖺𝗋𝗅
 
 
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+
+
+              *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
