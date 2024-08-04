@@ -8,6 +8,7 @@
 
 
 <img src="https://telegra.ph/file/ce441b6655752d71b80fa.jpg" width="700" height="700"/>
+<img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
