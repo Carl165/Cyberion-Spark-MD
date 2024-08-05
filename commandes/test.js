@@ -6,8 +6,8 @@ zokou({ nomCom: "repo", reaction: "💬", nomFichier: __filename }, async (dest,
     let z = '𝐇𝐄𝐋𝐋𝐎 👋 𝐂𝐔𝐓𝐈𝐄 🤗𝐓𝐇𝐈𝐒 𝐈𝐒 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝐌𝐃🌝 \n\n ' + "𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *CYBERION-SPARK.*";
     let d = ' https://github.com/Carl165/Cyberion-Spark-MD/tree/main';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    var mp4 = 'https://telegra.ph/file/24f2bab7110e19d99a481.mp4';
+    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
