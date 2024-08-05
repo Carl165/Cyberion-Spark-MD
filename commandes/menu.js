@@ -32,38 +32,39 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ◤━━━━━━━━━━━◥◤━━━━━━━━━━━◥
-  𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐂𝐀𝐑𝐋
+🤗 *𝗛𝗘𝗟𝗟𝗢* : ${s.OWNER_NAME}
 ╭────《𝕮𝕬𝕽𝕷-𝕿𝕰𝕮𝕳》────☯
 🧑‍💻 *User* : ${s.OWNER_NAME}
 🌐 *Mode* : ${mode}
 📃 *Commands* : ${cm.length} 
 ⌚️ *Time* : ${temps} 
 📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🛰 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝗠𝗗 
-╰─────✨✨✨✨✨─────☯ \n\n`;
+🛰 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝗠𝗗 𝐁𝐘 𝐂𝐀𝐑𝐋 
+💙*𝗟𝐄𝐓𝐒 𝐆𝐎* : ${s.OWNER_NAME}
+╰────✦𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡✦─────☯ \n\n`;
  
     let menuMsg=`  
   ◤──•~❉᯽❉~•──◥◤──•~❉᯽❉~•──◥
-     █ ✪ █▓▓▓▓▓▓▓▓▓█ ✪ █
+     █ ✪ █🅲▓🅱▓-▓🅼▓🅳▓█ ✪ █
 ✨╭━━━━━∙⋆⋅⋆∙━━━━🪀━━━━━∙⋆⋅⋆∙━━━━━╮✨
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────☸* *${cat}* *☸⊷*`;
+        menuMsg += `*╭────☸* *${cat}* *☸*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *☪* ${cmd}`;
         }
         menuMsg += `
-*♻═════════════🔮* \n`
+*♻◤──•~❉᯽❉~•──◥🪩* \n`
     }
 
     menuMsg += `
           
 
-   ▄▄▄▄▄▄▄▄▄▄
+   *▄▄▄▄▄▄▄▄▄▄*
   *ᴄᴀʀʟ-ᴡɪʟʟɪᴀᴍ 2024🏆*                                         
-*♻═════════════🔮*
+*♻◣──•~❉᯽❉~•──◢🪩*
 `;
 
    var lien = mybotpic();
