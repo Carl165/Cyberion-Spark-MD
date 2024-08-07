@@ -8,12 +8,12 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'zokk',
-    PREFIXE: process.env.PREFIX || "~",
-    OWNER_NAME: process.env.OWNER_NAME || "IBRAHIM-TECH",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254751284190",              
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
-    AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT : process.env.BOT_NAME || 'FLASH-MD',
+    PREFIXE: process.env.PREFIX || ".",
+    OWNER_NAME: process.env.OWNER_NAME || "CARL WILLIAM",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "254740271632",              
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
+    AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
+    BOT : process.env.BOT_NAME || 'CYBERION-SPARK-MD,
     URL : process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'no',
