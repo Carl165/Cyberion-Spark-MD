@@ -38,6 +38,7 @@ const date = moment().format('DD/MM/YYYY');
 🌐 *Mode* : ${mode}
 📃 *Commands* : ${cm.length} 
 ⌚️ *Time* : ${temps} 
+📅 *Date* : ${date}
 📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 🚀 *Platform* : ${os.platform}
 └───❀──»»-----------►
