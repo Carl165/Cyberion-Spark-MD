@@ -34,23 +34,23 @@ const date = moment().format('DD/MM/YYYY');
         𝐖𝐄𝐋𝐂𝐎𝐌𝐄
 ┌─── ∘°💮°∘ ─── ∘°💮°∘ ───┐
 🤗 *𝗛𝗘𝗟𝗟𝗢* : ${s.OWNER_NAME}
-╭────《𝗗𝗘𝗩𝗜𝗖𝗘》────☯
-🌐 *Mode* : ${mode}
-📃 *Commands* : ${cm.length} 
-⌚️ *Time* : ${temps} 
-📅 *Date* : ${date}
-📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🚀 *Platform* : ${os.platform}
+╭────》《𝗗𝗘𝗩𝗜𝗖𝗘》《────☯
+⨀🌐 *Mode* : ${mode}
+❂📃 *Commands* : ${cm.length} 
+⚉⌚️ *Time* : ${temps} 
+❂📅 *Date* : ${date}
+⚉📼 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+⦿🚀 *Platform* : ${os.platform}
 └───❀──»»-----------►
- 𝗦𝗧𝗔𝗧𝗨𝗦
-🛡 Security : encrypted
-📒 Bot ID : VBOPLQBG
-🌡 Bot temp : 37°
-🕛Bot speed : 000099MS
+ ╭─𝗦𝗧𝗔𝗧𝗨𝗦•---------
+⚉🛡 Security : encrypted
+⦿📒 Bot ID : VBOPLQBG
+⚉🌡 Bot temp : 37°
+❂🕛Bot speed : 000099MS
 └───❀»»ᅳᅳᅳᅳ►»»ᅳᅳ»»ᅳᅳᅳᅳ►
-𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
-🛰 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝗠𝗗 𝐁𝐘 𝐂𝐀𝐑𝐋 
-📝 Released  7:8:2024
+╭─𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡┈┈┈┈
+⚉🛰 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍-𝐒𝐏𝐀𝐑𝐊-𝗠𝗗 𝐁𝐘 𝐂𝐀𝐑𝐋 
+⨀📝 Released  7:8:2024
 ╰────✦𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡✦─────☯ \n\n`;
  
     let menuMsg=`  
